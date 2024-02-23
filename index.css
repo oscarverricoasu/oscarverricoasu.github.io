@@ -4,19 +4,22 @@ body {
     color: white;
 }
 
+p {
+    font-family: 'Courier New';
+    font-size: 1.5em;
+    text-align: left;
+    color: white;
+}
+
+
+
+
 
 
 
 h1.intro {
     font-family: 'Poppins';
     font-size: 4em;
-    text-align: left;
-    color: white;
-}
-
-p {
-    font-family: 'Courier New';
-    font-size: 1.5em;
     text-align: left;
     color: white;
 }
@@ -29,6 +32,10 @@ p.item_name {
     font-size: 2em;
 }
 
+img.TOTGA {
+    width: 100%;
+    height: auto;  
+}
 
 table.main_header td {
     font-size: 20px;
@@ -48,3 +55,4 @@ img.logo {
     height: 50px;
     width: 50px;
 }
+
